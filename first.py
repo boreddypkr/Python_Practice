@@ -1,4 +1,4 @@
-# This file describes all the attributes of a variable 
+# # This file describes all the attributes of a variable 
 text="python program"
 print(text)
 
